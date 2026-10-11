@@ -2,7 +2,7 @@
 Operatsioonisüsteemide neljandas praktikumis paigaldasin kõik Windowsi uuendused, katsetasin viirustõrjet, seadistasin vastavalt juhendile tulemüüri, tegelesin faili - ja kaustaõigustega. Lisaks seadistasin ka virtuaalmasinas Windows 11 turvalisust. 
 Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esitatud ekraanipildid.
 
-Ülesanne 4-1:
+# Ülesanne 4-1:
 
 <img width="638" height="422" alt="ülesanne 4-1" src="https://github.com/user-attachments/assets/c1063eec-34ee-4633-91da-9aa024aa0123" />
 
@@ -12,18 +12,18 @@ Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esita
 
 
 
-Ülesanne 4-2:
+# Ülesanne 4-2:
 <img width="958" height="563" alt="ülesanne 4-2" src="https://github.com/user-attachments/assets/1ca42194-b4a1-4a0a-878c-5a4149a6bb0f" />
 
 
 
 
-Ülesanne 4-3:
+# Ülesanne 4-3:
 
 
 <img width="576" height="484" alt="ülesanne 4-3" src="https://github.com/user-attachments/assets/3e45a656-b6ae-4beb-863b-c09b873520d1" />
 
-Ülesanne 4-4: 
+# Ülesanne 4-4: 
 
 
 
@@ -45,7 +45,7 @@ Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esita
 
 
 
-Ülesanne 4-5:
+# Ülesanne 4-5:
 
 
 <img width="422" height="824" alt="ülesanne 4-5" src="https://github.com/user-attachments/assets/5fed48b5-9486-41dd-8384-3faa722e3189" />
@@ -60,7 +60,7 @@ Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esita
 
 
 
-Ülesanne 4-6:
+# Ülesanne 4-6:
 Microsofti arvates peaksin Seadme turvalisuse alamseadistuse juures, jaotises Tuumade isoleerimine sisse lülitama Mälu terviklikkuse, mis peaks peaks kaitsma Windowsi tuuma.
 
 
@@ -76,7 +76,7 @@ Microsofti arvates peaksin Seadme turvalisuse alamseadistuse juures, jaotises Tu
 
 
 
-Ülesanne 4-7:
+# Ülesanne 4-7:
 
 
 <img width="509" height="445" alt="ülesanne 4-7" src="https://github.com/user-attachments/assets/688d4138-92b6-4bef-abd8-0a91f0fe3ee3" />
@@ -90,7 +90,7 @@ Microsofti arvates peaksin Seadme turvalisuse alamseadistuse juures, jaotises Tu
 
 
 
-Ülesanne 4-8:
+# Ülesanne 4-8:
 
 
 <img width="509" height="446" alt="ülesanne 4-8" src="https://github.com/user-attachments/assets/8d76da2b-17d7-47ca-8b31-cc0da4f4b507" />
@@ -102,7 +102,7 @@ Microsofti arvates peaksin Seadme turvalisuse alamseadistuse juures, jaotises Tu
 
 
 
-Ülesanne 4-9:
+# Ülesanne 4-9:
 
 
 
@@ -114,7 +114,7 @@ Microsofti arvates peaksin Seadme turvalisuse alamseadistuse juures, jaotises Tu
 
 
 
-Ülesanne 4-10:
+# Ülesanne 4-10:
 
 
 
