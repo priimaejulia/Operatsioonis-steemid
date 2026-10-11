@@ -1,6 +1,6 @@
 # Praktikum nr 4
 Operatsioonisüsteemide neljandas praktikumis paigaldasin kõik Windowsi uuendused, katsetasin viirustõrjet, seadistasin vastavalt juhendile tulemüüri, tegelesin faili - ja kaustaõigustega. Lisaks seadistasin ka virtuaalmasinas Windows 11 turvalisust. 
-Kirjalikult vastasin ülesandele 4-4 ja 4-6. Teistest ülesannetest on esitatud ekraanipildid.
+Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esitatud ekraanipildid.
 
 Ülesanne 4-1:
 
