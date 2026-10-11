@@ -24,6 +24,7 @@ Kirjalikult vastasin ülesandele 4-4 ja 4-6. Ülejäänud ülesannetest on esita
 <img width="576" height="484" alt="ülesanne 4-3" src="https://github.com/user-attachments/assets/3e45a656-b6ae-4beb-863b-c09b873520d1" />
 
 # Ülesanne 4-4: 
+Administraatoril on 24 privileegi, SYSTEM'il on aga 28 privileegi. Võrreldes administraatoriga on SYSTEM'il rohkem privileege sisselülitatud olekus ( enable). SYSTEM'i kasutajal on näiteks õigus genereerida ja kirjutada kirjeid Windowsi turvalogisse ( nn SeAuditPrivilage), mida administraatoril ei ole. 
 
 
 
