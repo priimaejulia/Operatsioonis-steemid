@@ -32,4 +32,15 @@
 
 
 # ülesannne 6-6: 
+
+
+# ülesanne 6-7:
 Sticky bit'iga saavad kataloogist /tmp/yhiskaust kustutada peetri loodud faile peeter ise , kuna on faili omanik, õpetaja, kuna ta on kataloogi /tmp/yhiskaust omanik, ja root, kuna root on süsteemiadministraator ja tema suhtes failiõigused ei kehti.  
+
+
+# ülesanne 6-8: 
+
+1)
+2)
+<img width="329" height="193" alt="ülesanne 6-8" src="https://github.com/user-attachments/assets/4205915e-76d4-4ccd-87f6-1f596703c56b" />
+
