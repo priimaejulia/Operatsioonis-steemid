@@ -1,13 +1,16 @@
 # Praktikum nr 5
-# ülesanne 5-3: käsujada on ps -axu | grep daemon | grep -v grep | tr -s " " | cut -d" " -f11- | grep daemon
+# ülesanne 5-3: 
+käsujada on ps -axu | grep daemon | grep -v grep | tr -s " " | cut -d" " -f11- | grep daemon
 
 
 
-# ülesanne 5-4: käsujada on ip a | grep "inet " | grep -v 127.0.0.1 | tr -s " " | cut -d" " -f3 | cut -d"/" -f1
+# ülesanne 5-4: 
+käsujada on ip a | grep "inet " | grep -v 127.0.0.1 | tr -s " " | cut -d" " -f3 | cut -d"/" -f1
 
 
 
-# ülesanne 5-5: failis teatedOut.txt valisin välja kaks sõnumit:
+# ülesanne 5-5: 
+failis teatedOut.txt valisin välja kaks sõnumit:
 1) WM_COMMAND ( logi rida 16:39:16.699, 273, "WM_COMMAND", 996, 394212):
 - tekib kolmel juhul: kui kasutaja valib menüüst käsu, juhtelement saadab vanemaknale teavituse või kiirklahvivajutus tõlgitakse. 
 - tekkis sellest, et klõpsasin aknas nupule WM_NULL,10,10.
