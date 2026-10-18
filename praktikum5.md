@@ -1,6 +1,6 @@
 # Praktikum nr 5
 
-
+Operatsioonisüsteemide kursuse viiendas praktikumis tutvusin Linuxi protsesside ja signaalide toimimisega, õppisin suunama protsesside sisendeid ja väljundeid, ühendama käske torude abil. Lisaks sain ise protsesse peatada, katkestada ja tappa. 
 
 # ülesanne 5-1:
 <img width="382" height="373" alt="ülesanne 5-1" src="https://github.com/user-attachments/assets/688eca90-849b-404b-a7fd-9f49cac1b1e0" />
