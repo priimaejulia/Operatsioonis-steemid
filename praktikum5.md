@@ -1,11 +1,28 @@
 # Praktikum nr 5
+
+# ülesanne 5-1:
+<img width="382" height="373" alt="ülesanne 5-1" src="https://github.com/user-attachments/assets/688eca90-849b-404b-a7fd-9f49cac1b1e0" />
+
+# ülesanne 5-2:
+<img width="406" height="515" alt="ülesanne 5-2" src="https://github.com/user-attachments/assets/ecb1d158-326f-4d0d-9b8b-4a1b28e8fb14" />
+
+
+
+
 # ülesanne 5-3: 
 käsujada on ps -axu | grep daemon | grep -v grep | tr -s " " | cut -d" " -f11- | grep daemon
+
+<img width="344" height="326" alt="ülesanne 5-3" src="https://github.com/user-attachments/assets/a2bdf6d7-2c0b-410d-811c-1faa22af0ff7" />
+
+
 
 
 
 # ülesanne 5-4: 
 käsujada on ip a | grep "inet " | grep -v 127.0.0.1 | tr -s " " | cut -d" " -f3 | cut -d"/" -f1
+
+<img width="343" height="320" alt="ülesanne 5-4" src="https://github.com/user-attachments/assets/b2fc03ec-b870-414b-90f5-9c8d453fdd97" />
+
 
 
 
