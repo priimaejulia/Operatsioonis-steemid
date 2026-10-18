@@ -10,7 +10,7 @@ käsujada on ip a | grep "inet " | grep -v 127.0.0.1 | tr -s " " | cut -d" " -f3
 
 
 # ülesanne 5-5: 
-failis teatedOut.txt valisin välja kaks sõnumit:
+A) failis teatedOut.txt valisin välja kaks sõnumit:
 1) WM_COMMAND ( logi rida 16:39:16.699, 273, "WM_COMMAND", 996, 394212):
 - tekib kolmel juhul: kui kasutaja valib menüüst käsu, juhtelement saadab vanemaknale teavituse või kiirklahvivajutus tõlgitakse. 
 - tekkis sellest, et klõpsasin aknas nupule WM_NULL,10,10.
@@ -29,5 +29,7 @@ lParam: kursori asukoht ja vajutatud hiirenupp
 
 https://learn.microsoft.com/en-us/windows/win32/inputdev/wm-mouseactivate
 
-Proovi tekitada vähemalt 1 sõnum, mida pole tõlketabelis (failis teatedOut.txt on nimeks "???") ja ID on väiksem kui 45000. Millise(d) suutsid tekitada? Leidsin WM_DPICHANGED (736).
+B) Proovi tekitada vähemalt 1 sõnum, mida pole tõlketabelis (failis teatedOut.txt on nimeks "???") ja ID on väiksem kui 45000. Millise(d) suutsid tekitada? Leidsin WM_DPICHANGED (736).
+
+
 https://learn.microsoft.com/en-us/windows/win32/gdi/wm-displaychange
