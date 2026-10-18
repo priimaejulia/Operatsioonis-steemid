@@ -28,3 +28,6 @@ lParam: kursori asukoht ja vajutatud hiirenupp
 
 
 https://learn.microsoft.com/en-us/windows/win32/inputdev/wm-mouseactivate
+
+Proovi tekitada vähemalt 1 sõnum, mida pole tõlketabelis (failis teatedOut.txt on nimeks "???") ja ID on väiksem kui 45000. Millise(d) suutsid tekitada? Leidsin WM_DPICHANGED (736).
+https://learn.microsoft.com/en-us/windows/win32/gdi/wm-displaychange
