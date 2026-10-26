@@ -64,7 +64,8 @@ Täpsemad õigused on näha käsuga getfacl: grupile direktor on antud lugemis -
 # ülesanne 6-9:
 
 - +i atribuudiga faili ei saa muuta mitte keegi, sealhulgas root ei saa muuta.
+  
 - kustutada saab:
-      - sudo chattr -i testfail-2
-      - sudo rm testfail-2
+      sudo chattr -i testfail-2
+      sudo rm testfail-2
 
