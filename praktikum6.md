@@ -1,6 +1,6 @@
 # Praktikum nr 6
 
-Operatsioonsüsteemide kursuse kuuendas praktikumis tutvusin Linuxi failisüsteemi pääsuõigustega, õppisin haldama failide ja kataloogide õigusi ning omanikke. Lisaks uurisin vaikimis määratavaid õigusi ning maski kasutamist, tutvusin spetsiaalsete õigustega, nt. setiud, setgit.
+Operatsioonsüsteemide kursuse kuuendas praktikumis tutvusin Linuxi failisüsteemi pääsuõigustega, õppisin haldama failide ja kataloogide õigusi ning omanikke ja omanikegruppe.. Lisaks uurisin vaikimis määratavaid õigusi ning maski kasutamist, tutvusin spetsiaalsete õigustega, nt. setiud, setgit.
 
 # ülesanne 6-1:
 
