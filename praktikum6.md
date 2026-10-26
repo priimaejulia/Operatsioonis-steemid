@@ -54,9 +54,17 @@ Sticky bit'iga saavad kataloogist /tmp/yhiskaust kustutada peetri loodud faile p
 
 # ülesanne 6-8: 
 
-1) 
-2)
+ls -la väljundis tekkis õiguste lõppu + märk, mis näitab, et failil on ACL-õigused. Grupi õiguste kohal näidatakse nüüd ACL- i maski (rw-). 
+Täpsemad õigused on näha käsuga getfacl: grupile direktor on antud lugemis - ja kirjutamisõigus, samas grupil opetaja ei ole ühtegi õigust.
+
+
 <img width="329" height="193" alt="ülesanne 6-8" src="https://github.com/user-attachments/assets/4205915e-76d4-4ccd-87f6-1f596703c56b" />
 
 
 # ülesanne 6-9:
+
+- +i atribuudiga faili ei saa muuta mitte keegi, sealhulgas root ei saa muuta.
+- kustutada saab:
+      - sudo chattr -i testfail-2
+      - sudo rm testfail-2
+
