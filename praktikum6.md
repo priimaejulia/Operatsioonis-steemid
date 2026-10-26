@@ -19,7 +19,7 @@ Lisaks x  - õigusele on vaja lugemisõigust (r).
 
 # ülesanne 6-3:
 
-Iga kasutaja saab omale privaatrgrupi, et tema failid kuuluksid gruppi, kus on ainult tema. 
+Iga kasutaja saab omale privaatgrupi, et tema failid kuuluksid gruppi, kus on ainult tema. 
 Tavakasutaja umask 0002 annab grupile kirjutusõiguse, aga kuna grupis pole kedagi teist, siis ei saa teised kasutajad faile muuta. 
 
 # ülesanne 6-4: 
