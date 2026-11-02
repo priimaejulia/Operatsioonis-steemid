@@ -2,7 +2,7 @@
 
 # ülesanne 7-1:
 
-
+Uus andmekandja on alguses täiesti tühi ja operatsioonisüsteem ei oska seda kasutada, kuna sellel puudub nii partitsioonitabel kui ka failisüsteem. Süsteem ei tea, kus partitsioonid algavad ja lõpevad ning kuidas faile salvestada. Lähtestamisel kirjutatakse kettale partitsioonitabel (MBR või GPT), mis näitab ketta osadeks jaotumist. Üle 2 TB ketaste puhul tuleks kasutada GPT-d, sest MBR ei toeta nii suuri kettaid. Seejärel luuakse vormindamisel partitsioonile failisüsteem (nt NTFS või ext4), mis hoiab arvet selle üle, kus failid kettal asuvad ja kui palju vaba ruumi on. Alles siis saab ketta süsteemiga ühendada ja sinna faile salvestada.
 
 # ülesanne 7-2:
 
