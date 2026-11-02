@@ -1,6 +1,6 @@
 # Praktikum nr 7 
 
-
+Operatsioonisüsteemide kursuse seitsmendas praktikumis õppisin seadistama ja kasutama lokaalseid kõvakettaid ja partitsioone, katsetasin võrguketaste haakimist Windowsis ning Ubuntus. Lisaks tutvusin USB - mälupulga kasutamise ning manuaalse haakimisega Ubuntus ning õppisin seadistama ketaste automaatset püsivat haakimist süsteemi kävitumisel. 
 
 
 # ülesanne 7-1:
