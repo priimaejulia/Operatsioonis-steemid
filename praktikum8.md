@@ -1,5 +1,7 @@
 # Praktikum nr 8
 
+Operatsioonisüsteemid kaheksandas praktikumis 
+
 # ülesanne 8-1
 <img width="858" height="650" alt="ülesanne 8-1" src="https://github.com/user-attachments/assets/642170af-1078-494f-9365-a40115b83bae" />
 
@@ -26,4 +28,5 @@
 # ülesanne 8-5
 
 
-<img width="649" height="502" alt="image" src="https://github.com/user-attachments/assets/71e7e56f-eedb-45ce-85a4-0e1959faab87" />
+<img width="950" height="599" alt="Kuvatõmmis 2026-11-02 201950" src="https://github.com/user-attachments/assets/64675e41-462d-4a42-a368-3dc2df920408" />
+
