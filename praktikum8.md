@@ -5,3 +5,6 @@
 
 
 # ülesanne 8-2
+
+
+<img width="635" height="737" alt="ülesanne 8-2" src="https://github.com/user-attachments/assets/b1943097-4c50-4c4f-95be-a9546013885d" />
