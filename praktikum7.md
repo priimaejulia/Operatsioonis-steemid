@@ -5,10 +5,10 @@
 Uus andmekandja on alguses täiesti tühi ja operatsioonisüsteem ei oska seda kasutada, kuna sellel puudub nii partitsioonitabel kui ka failisüsteem. Süsteem ei tea, kus partitsioonid algavad ja lõpevad ning kuidas faile salvestada. Lähtestamisel kirjutatakse kettale partitsioonitabel (MBR või GPT), mis näitab ketta osadeks jaotumist. Üle 2 TB ketaste puhul tuleks kasutada GPT-d, sest MBR ei toeta nii suuri kettaid. Seejärel luuakse vormindamisel partitsioonile failisüsteem (nt NTFS või ext4), mis hoiab arvet selle üle, kus failid kettal asuvad ja kui palju vaba ruumi on. Alles siis saab ketta süsteemiga ühendada ja sinna faile salvestada.
 
 # ülesanne 7-2:
-- suurem toetatud kettamaht
-- rohkem partitsioone ja lihtsam ülesehitus
-- partitsioonitabeleli varukoopia
-- kontrollsummad 
+- rohkem partitsioone ja lihtsam ülesehitus: MBR partitsioonitabelis on ruumi ainult neljale primaarsele partitsioonile, rohkemate jaoks tuleb luua laiendatud partitsioon ja selle sisse loogilised partitsioonid, mis teeb struktuuri keerulisemaks. GTP - s on vaikimisi ruumi 128 partitsioonile ja primaarseid ja loogilisi partitsioone eraldi ei ole. 
+- partitsioonitabeli varukoopia: MBR -is on primaarsete partitsioonide tabel ainult ketta esimeses sektoris. Kui see sektor saab kahjustada, ei leia süsteem partitsioone enam üles. GTP hoiab päisest ja partitsioonitabelist varukoopiat ketta lõpus, nii et põhikoopia rikke korral saab tabeli varukoopiast taastada.
+- kontrollsummad: GTP päises on CRC32 kontrollsumma nii päise kui ka partitsioonitabeli kohta. Selle abil saab süsteem tuvastada, kas table on rikutud, ning vajadusel kasutada varukoopiat. MBR - is sellist kontrolli ei ole ja rikutud andmeid ei pruugita märgata.
+- suurem toetatud kettamaht: MBR suudab kasutada ainult kuni 2TiB suurust kettaruumi. GTP kasutab sektorite numbrite jaoks kaks korda pikemaid aadresse, mistõttu sobivad sellele ka väga suured kettad. 
 
 
 # ülesanne 7-3: 
