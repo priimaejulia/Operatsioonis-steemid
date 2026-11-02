@@ -1,6 +1,6 @@
 # Praktikum nr 8
 
-Operatsioonisüsteemid kaheksandas praktikumis 
+Operatsioonisüsteemid kaheksandas praktikumis õppisin seadistama ja haldama tarkvaralist RAID 1 peegeldust Windows 11 keskkonnas ning looma, haldama ja taastama tarkvaralist RAID 1 massiivi Linuxis. Sain simuleerida ka kõvaketta riket ning teha läbi kettamasiivi taastamist Windowsi kui kui Linuxi keskkonnas. Lisaks seadistasin TÜ Nextcloudi ja Microsoft OneDrive pilvevarundust. 
 
 # ülesanne 8-1
 <img width="858" height="650" alt="ülesanne 8-1" src="https://github.com/user-attachments/assets/642170af-1078-494f-9365-a40115b83bae" />
