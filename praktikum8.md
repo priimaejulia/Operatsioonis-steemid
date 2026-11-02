@@ -8,3 +8,9 @@
 
 
 <img width="635" height="737" alt="ülesanne 8-2" src="https://github.com/user-attachments/assets/b1943097-4c50-4c4f-95be-a9546013885d" />
+
+
+
+# ülesanne 8-3
+
+<img width="856" height="578" alt="ülesanne 8-3" src="https://github.com/user-attachments/assets/4fcd21e9-5428-40c5-b297-4b7e052823de" />
