@@ -14,3 +14,16 @@
 # ülesanne 8-3
 
 <img width="856" height="578" alt="ülesanne 8-3" src="https://github.com/user-attachments/assets/4fcd21e9-5428-40c5-b297-4b7e052823de" />
+
+
+
+# ülesanne 8-4
+
+
+<img width="1917" height="1070" alt="ülesannne 8-4" src="https://github.com/user-attachments/assets/dd39512f-28dc-4244-ba53-f7802717d8a2" />
+
+
+# ülesanne 8-5
+
+
+<img width="649" height="502" alt="image" src="https://github.com/user-attachments/assets/71e7e56f-eedb-45ce-85a4-0e1959faab87" />
