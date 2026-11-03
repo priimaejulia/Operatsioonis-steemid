@@ -7,3 +7,6 @@
 
 
 # ülesanne 9-5: 
+
+Vastus: käivitatakse süsteemi %Path% kaustas olev fail. 
+
