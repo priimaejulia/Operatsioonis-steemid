@@ -31,5 +31,5 @@ Kas võib sellele määrata oleku disabled? Jah, võib küll, kuna Printer Spool
 
 # ülesanne 9-8: 
 
-<img width="637" height="460" alt="ülesanne 9-8" src="https://github.com/user-attachments/assets/3919e7cb-1c5d-4e7e-84dc-d2de428e7238" />
+
 
