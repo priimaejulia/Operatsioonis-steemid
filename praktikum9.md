@@ -1,5 +1,7 @@
 # Praktikum nr 9
 
+Tegemist oli Operatsioonisüsteemide kursuse 9. praktikumiga. Praktikumi käigus õppisin haldama ja kasutama keskkonnamuutujaid ja aliaseid Linuxis ning Windowsis. Lisaks õppisin eemaldama mittevajalikku tarkvara ja rakenduspakette. Lisaks sain uuendada Ubuntu virtuaalmasinat uuemale versioonile Ubuntu 26.10. 
+
 # ülesanne 9-1
 
 PWD väärtus pärast "sudo su" käsku: /home/julia
