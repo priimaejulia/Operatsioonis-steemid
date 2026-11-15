@@ -11,6 +11,7 @@ PWD väärtus pärast "sudo su" käsku: /home/julia
 
 # ülesanne 9-3
 
+![ülesanne 9-3](<ülesanne 9-3.png>)
 
 
 # ülesanne 9-4
