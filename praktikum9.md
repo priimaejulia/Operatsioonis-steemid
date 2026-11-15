@@ -2,7 +2,7 @@
 
 # ülesanne 9-1
 
-
+PWD väärtus pärast "sudo su" käsku: /home/julia
 
 # ülesanne 9-2
 
