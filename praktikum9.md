@@ -7,6 +7,10 @@
 # ülesanne 9-2
 
 
+# ülesanne 9-3
+
+
+
 # ülesanne 9-4
 
 ![ülesanne 9-4](<ülesanne 9-4.png>)
