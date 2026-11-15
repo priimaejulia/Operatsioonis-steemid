@@ -11,6 +11,10 @@ PWD väärtus pärast "sudo su" käsku: /home/julia
 
 # ülesanne 9-3
 
+Eemaldasin "CUPS" -I (Common UNIX Printing System), kuna minu virtuaalmasinaga ei ole ühtegi printerit ühendatud ning pole vaja midagi virtuaalmasinast printida. Teenus töötas pidevalt taustal ning võttis ressursse.
+Vabastatud kettamaht umbes 3,6 MB ( 3626 kB).
+
+Eemaldamise käsud on näidatud apt logis, kuna virtuaalmasin jooksis pärast eemaldamist kokku ja terminali väljund kadus. 
 ![ülesanne 9-3](<ülesanne 9-3.png>)
 
 
