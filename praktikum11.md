@@ -36,6 +36,10 @@ Ruuter 2:
 
 
 
+
+
+
+
 Vastus küsimusele: ruuter 2 teab ainult kahte võrku, millega ta on otse ühendatud. Aadress 8.8.8.8 ei kuulu kumbagi neist ja ruuter2-l pole default route'i, mis ütleks kuhu tundmatud paketid saata. Seepärast ei tea ruuter2, kuhu paketti saata, ja annab vea " Network is unreachable"
 
 
